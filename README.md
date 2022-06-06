@@ -1,1 +1,4 @@
-# Covid-19-Tracker
+```sh
+yarn install
+yarn start
+```
