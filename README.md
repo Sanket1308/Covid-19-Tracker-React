@@ -3,4 +3,4 @@ yarn install
 yarn start
 ```
 ## Demo
-[image](https://corona-virus-stats.netlify.app/)
+[https://corona-virus-stats.netlify.app/](https://corona-virus-stats.netlify.app/)
